@@ -1,1 +1,1 @@
-git@github.com:keerthanaV7/package1.git
+https://github.com/keerthanaV7/package1.git
